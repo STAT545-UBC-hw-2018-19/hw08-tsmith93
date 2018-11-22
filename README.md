@@ -22,8 +22,7 @@ Item | Description
 [README](https://github.com/STAT545-UBC-students/hw08-tsmith93/blob/master/README.md) | Information on repository
 [hw08-tsmith93.Rproj](https://github.com/STAT545-UBC-students/hw08-tsmith93/blob/master/hw08-tsmith93.Rproj) | R.Proj file for this repository
 [app.R](https://github.com/STAT545-UBC-students/hw08-tsmith93/blob/master/bcl/app.R) | app.R file for the app code
-[bcl-data.csv]
-(https://github.com/STAT545-UBC-students/hw08-tsmith93/blob/master/bcl/bcl-data.csv) | Dataset used for the app
+[bcl-data.csv](https://github.com/STAT545-UBC-students/hw08-tsmith93/blob/master/bcl/bcl-data.csv) | Dataset used for the app
 [rsconnect folder](https://github.com/STAT545-UBC-students/hw08-tsmith93/tree/master/bcl/rsconnect/shinyapps.io/temsmith) | Just ignore this 
 
 
