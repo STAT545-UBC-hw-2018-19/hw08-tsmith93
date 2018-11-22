@@ -5,8 +5,8 @@ account: temsmith
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 584520
-bundleId: 1714326
+bundleId: 1714360
 url: https://temsmith.shinyapps.io/bcl_explorer/
-when: 1542859280.72695
+when: 1542860815.9107
 asMultiple: FALSE
 asStatic: FALSE

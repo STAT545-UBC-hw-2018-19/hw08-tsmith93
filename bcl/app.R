@@ -50,7 +50,7 @@ ui <- fluidPage(
     mainPanel(
       #use this header to describe findings (see server section for how)
       h3(textOutput("findings")),
-      #add break
+      #add breaks
       br(),
       #add option for users to export findings
       downloadButton("downloader", "Save List"),
@@ -58,10 +58,10 @@ ui <- fluidPage(
       br(), br(),
       #separate table and plot into different tabs
       tabsetPanel( 
-        #title the table tab and define content
-        tabPanel("List", DT::dataTableOutput("search")),
         #title plot tab and define content
         tabPanel("Visualizer", plotOutput("price_plot")),
+        #title the table tab and define content
+        tabPanel("List", DT::dataTableOutput("search")),
       #add fun image encouraing users to drink responsibly  
       img(src="liqua.jpg", width = "100%")
     )
