@@ -1,6 +1,6 @@
 # Thomas' homework 8 repository 
 
-In this repository, you will find the contents for my assignment submission. The goal of the assignment was to update the BC Liquor store app we explored in class with 3 features.
+In this repository, you will find the contents for my assignment submission. The goal of the assignment was to update the BC Liquor store app we explored in class with at least 3 features.
 
 Updates I included were:
 
