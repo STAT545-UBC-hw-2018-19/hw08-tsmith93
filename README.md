@@ -2,6 +2,8 @@
 
 In this repository, you will find the contents for my assignment submission. The goal of the assignment was to update the BC Liquor store app we explored in class with at least 3 features.
 
+Click [here](https://temsmith.shinyapps.io/bcl_explorer/) to use my updated app!
+
 Updates I included were:
 
 - Adding more descriptive headers throughout to make the app more user friendly
