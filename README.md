@@ -18,7 +18,7 @@ Updates I included were:
 To more easily navigate this repository, use this table:
 
 Item | Description
-------------------
+-----|-------------
 [README](https://github.com/STAT545-UBC-students/hw08-tsmith93/blob/master/README.md) | Information on repository
 [hw08-tsmith93.Rproj](https://github.com/STAT545-UBC-students/hw08-tsmith93/blob/master/hw08-tsmith93.Rproj) | R.Proj file for this repository
 [app.R](https://github.com/STAT545-UBC-students/hw08-tsmith93/blob/master/bcl/app.R) | app.R file for the app code
@@ -28,6 +28,8 @@ Item | Description
 
 
 Please note: The foundational code and data are from [Dean Attali's tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial). The code can specifically be found [here](https://deanattali.com/blog/building-shiny-apps-tutorial/#12-final-shiny-app-code).
+
+Additionally I used this [cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
 
 Enjoy!
 
