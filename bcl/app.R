@@ -120,7 +120,7 @@ server <- function(input, output) {
     #make ggplot with price on x axis, and fill based on type
     ggplot(filtered(), aes(Price, color = Type, fill = Type)) +
       #manually enter palette
-      scale_fill_manual(values=cbPalette) +
+      scale_fill_manual(values=c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")) +
       geom_histogram(colour = "black") + 
       scale_x_continuous() +
       #set plot theme
